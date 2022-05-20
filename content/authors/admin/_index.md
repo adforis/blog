@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Форис Анастасия
+title: forys Anastasiya
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Студентка, спортсменка, художница
+role: Student sportsmen artist 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -19,14 +19,14 @@ bio: The most unpredictable person ever.
 # Interests to show in About widget
 interests:
   -Data science
-  -Классическая литература
-  -Смешные шоу на ютубе
-  -Искусство
+  -Fiction literature
+  -Funny shows on youtube
+  -Art
 
 # Education to show in About widget
 education:
   courses:
-    - course: Прикладная математика и информатика
+    - course: Applied math and informatics
       institution: RUDN
       year: 2025
 
@@ -64,4 +64,4 @@ email: 'aforisheh@gmail.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Студентка направления прикладная математика и информатика. В будущем планирую работать и жить за рубежом.
+Student of RUDN. Lives end studies in Moscow, Russia.
